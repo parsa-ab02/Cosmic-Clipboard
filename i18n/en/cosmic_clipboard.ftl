@@ -1,0 +1,9 @@
+app-title = Cosmic Clipboard
+app-comment = A lightweight clipboard history manager for the COSMIC desktop.
+app-keywords =
+about = About
+repository = Repository
+view = View
+welcome = Welcome to COSMIC! ✨
+page-id = Page { $num }
+git-description = Git commit {$hash} on {$date}

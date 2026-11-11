@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Cosmic Clipboard
+Comment=A lightweight clipboard history manager for the COSMIC desktop.
+Type=Application
+Icon=io.github.parsa_ab02.cosmic_clipboard
+Exec=cosmic-clipboard %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
